@@ -62,3 +62,5 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'minitest-reporters'
 gem 'mini_backtrace'
+gem 'bootstrap-sass'
+gem 'rails-controller-testing'
